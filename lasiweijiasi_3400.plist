@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://game.024ea.com/download/icon_57_lasiweijiasi.png</string>
+					<string>http://game.024ea.com/download/src/icon_57_lasiweijiasi.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://game.024ea.com/download/icon_512_lasiweijiasi.png</string>
+					<string>http://game.024ea.com/download/src/icon_512_lasiweijiasi.png</string>
 				</dict>
             </array>
             <key>metadata</key>
